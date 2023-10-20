@@ -35,7 +35,7 @@ Adhere to criticism and self-criticism, keep an open attitude to every opportuni
 
 <br/>
 
-<br/>https://github-readme-stats.vercel.app/api?username=Booker&hide_border=true&show_icons=true&theme=graywhite
+<br/>
 
 <br/>
 
