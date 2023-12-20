@@ -7,7 +7,7 @@ Hello, I'm booker, a master's student majoring in artificial intelligence.
 Superstitious new tools and methods,
 Adhere to criticism and self-criticism, keep an open attitude to every opportunity, and have the courage to try new things.
 
-- 🌱 I’m currently learning BlockChain.
+- 🌱 I'm currently learning about Blockchain and its related application areas, such as zero-knowledge proofs and DeFi.
 - 📫 How to reach me: 0x42ooker@gmail.com
 - 💬 I can do all things.
 
